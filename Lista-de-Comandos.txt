@@ -1,0 +1,17 @@
+# Principais Comandos
+
+## Comandos Básicos
+
+| Comando                    | Windows     | Linux          |
+| :------------------------- | ----------- | -------------- |
+| Listar diretórios          | dir         | ls             |
+| Navegar entre diretórios   | cd /        | cd /           |
+| Voltar                     | cd ..       | cd ..          |
+| Limpar tela                | cls         | ctrl+l (tecla) |
+| Auto completar             | tab (tecla) | tab (tecla)    |
+| Criar pasta                | mkdir       | mkdir          |
+| Criar arquivo              | echo >      | echo >         |
+| Deletar arquivo            | del         | rm -rf         |
+| Deletar pasta              | rmdir /s /q | rm -rf         |
+| Exibir caminho do arquivo  | -           | pwd            |
+| Exibir conteúdo do arquivo | -           | cat            |
