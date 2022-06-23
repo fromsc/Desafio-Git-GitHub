@@ -1,3 +1,4 @@
-# Desafio-Git-GitHub
-Repositório do Desafio de Projeto do Módulo 1 do Bootcamp TQI-DIO
+# Repositório GitHub
+
+Neste Desafio de Projeto do Módulo I do Bootcamp Fullstack DIO/ TQI foi proposta a criação do nosso primeiro repositório GitHub utilizando o GitBash direto na máquina local.
 
